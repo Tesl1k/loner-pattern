@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateFactory", "ChocolateFactory\ChocolateFactory.csproj", "{6088F23D-AE8C-48C1-BCB4-3EA46E9625FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateLibrary", "ChocolateLibrary\ChocolateLibrary.csproj", "{5E3E316F-9534-4D0D-B91B-F9F4D816FB41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6088F23D-AE8C-48C1-BCB4-3EA46E9625FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6088F23D-AE8C-48C1-BCB4-3EA46E9625FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6088F23D-AE8C-48C1-BCB4-3EA46E9625FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6088F23D-AE8C-48C1-BCB4-3EA46E9625FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3E316F-9534-4D0D-B91B-F9F4D816FB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3E316F-9534-4D0D-B91B-F9F4D816FB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3E316F-9534-4D0D-B91B-F9F4D816FB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3E316F-9534-4D0D-B91B-F9F4D816FB41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AD90B4E-B0A7-4175-ADC2-60C1C356194B}
+	EndGlobalSection
+EndGlobal
